@@ -1,4 +1,4 @@
-<game name="Battle for Sularia" id="2e9baa9c-6ebe-42f3-97c6-121f4dadf302" octgnVersion="3.1.240.0" version="0.0.0.0" scriptVersion="3.1.0.2" markersize="25" setsurl="www.sularia.com" gameurl="www.sularia.com" authors="Jesse Bergman, John Kimmel" description="A game of planetary domination for your faction's survival on the post-apocalyptic world of Sularia for 2+ players" tags="" iconurl="http://static1.squarespace.com/static/548f623ae4b0567b501b51e2/t/5666534569a91a17ec80208c/1455031861279/?format=400w">
+<game name="Battle for Sularia" id="2e9baa9c-6ebe-42f3-97c6-121f4dadf302" octgnVersion="3.1.240.0" version="0.0.0.0" scriptVersion="3.1.0.2" markersize="25" setsurl="http://www.sularia.com" gameurl="http://www.sularia.com" authors="Jesse Bergman, John Kimmel" description="A game of planetary domination for your faction's survival on the post-apocalyptic world of Sularia for 2+ players" tags="" iconurl="http://static1.squarespace.com/static/548f623ae4b0567b501b51e2/t/5666534569a91a17ec80208c/1455031861279/?format=400w">
 	
 	<scripts>
 	</scripts>
@@ -22,7 +22,7 @@
 		<property name="Defense" type="Integer" />
 	</card>
 	
-	<table name="battlefield" visibility="all" width="1366" height="768" background="Tables/FantasyWallpaper.jpg" backgroundStyle="stretch">
+	<table name="battlefield" visibility="all" width="1366" height="768" background="Tables\FantasyWallpaper.jpg" backgroundStyle="stretch">
 	</table>
 	
 	<player summary="Health:{#health}">
