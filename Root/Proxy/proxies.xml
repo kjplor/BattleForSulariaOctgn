@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates>
+    <blocks>
+        <block type="overlay"  id="blankCardBack">
+            <location x="0"  y="0" />
+        </block>
+    </blocks>
+    <template src="Proxy\placeHolder.png" default="True" >
+    	<matches>
+  			<match name="propertyName" value="propertyValue" />
+		</matches>
+    </template>
+</templates>

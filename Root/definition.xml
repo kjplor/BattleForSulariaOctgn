@@ -1,0 +1,31 @@
+<game name="Battle for Sularia" id="2e9baa9c-6ebe-42f3-97c6-121f4dadf302" octgnVersion="3.1.240.0" version="0.0.0.0" scriptVersion="3.1.0.2" markersize="25" setsurl="www.sularia.com" gameurl="www.sularia.com" authors="Jesse Bergman, John Kimmel" description="A game of planetary domination for your faction's survival on the post-apocalyptic world of Sularia for 2+ players" tags="" iconurl="http://static1.squarespace.com/static/548f623ae4b0567b501b51e2/t/5666534569a91a17ec80208c/1455031861279/?format=400w">
+	
+	<scripts>
+	</scripts>
+
+	<events>
+	</events>
+
+	<proxygen definitionsrc="Proxy\proxies.xml">
+	</proxygen>
+
+	<card front="Sets\Battle_Kit\Cards\8d16f9be-51e3-4fca-8afc-087a655fba4a.png" height="1051" width="751" back="Sets\Battle_Kit\Cards\8d16f9be-51e3-4fca-8afc-087a655fba4a.png" backHeight="1051" backWidth="751">
+		<property name="Card Category" type="String" />
+		<property name="Faction" type="String" />
+		<property name="Card Type" type="Integer" />
+		<property name="Sularium Cost" type="Integer" />
+		<property name="Influence Cost" type="Integer" />
+		<property name="Threshold Cost" type="Integer" />
+		<property name="Construction Cost" type="Integer" />
+		<property name="Sularium Generation" type="Integer" />
+		<property name="Attack" type="Integer" />
+		<property name="Defense" type="Integer" />
+	</card>
+	
+	<table name="battlefield" visibility="all" width="1366" height="768" background="Tables/FantasyWallpaper.jpg" backgroundStyle="stretch">
+	</table>
+	
+	<player summary="Health:{#health}">
+		<counter name="health" icon="Icons/HP.png" default="25" />
+	</player>
+</game>
