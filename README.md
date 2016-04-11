@@ -1,2 +1,2 @@
 # BattleForSulariaOctgn
-an implementation of Battle for Sularia on OTCGN
+an implementation of Battle for Sularia on OCTGN
