@@ -9,7 +9,7 @@
 	<proxygen definitionsrc="Proxy\proxies.xml">
 	</proxygen>
 
-	<card front="Sets\Battle_Kit\Cards\8d16f9be-51e3-4fca-8afc-087a655fba4a.png" height="1051" width="751" back="Sets\Battle_Kit\Cards\8d16f9be-51e3-4fca-8afc-087a655fba4a.png" backHeight="1051" backWidth="751">
+	<card front="Sets\Battle_Kit\Cards\8d16f9be-51e3-4fca-8afc-087a655fba4a.png" height="63" width="88" back="Sets\Battle_Kit\Cards\8d16f9be-51e3-4fca-8afc-087a655fba4a.png" backHeight="63" backWidth="88">
 		<property name="Card Category" type="String" />
 		<property name="Faction" type="String" />
 		<property name="Card Type" type="Integer" />
@@ -27,5 +27,16 @@
 	
 	<player summary="Health:{#health}">
 		<counter name="health" icon="Icons/HP.png" default="25" />
+		
+		<hand icon="Proxy\placeHolder.png" visibility="me" width="63" height="88">
+		</hand>
+		
+		<group name="PlayDeck" icon="Proxy\placeHolder.png" visibility="none" ordered="True" width="63" height="88">
+		</group>
 	</player>
+
+
+	<deck>
+		<section name="PlayDeck" group="PlayDeck" />
+	</deck>
 </game>
