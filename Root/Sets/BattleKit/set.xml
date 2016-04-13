@@ -70,7 +70,7 @@
 			<property name="Faction" value="Jotune" />
 			<property name="Construction Cost" value="1" />
 		</card>
-		<card name="Ship Yard" id="066529d5-0b58-455b-bac0-1fc1a7668abe">
+		<card name="Shipyard" id="066529d5-0b58-455b-bac0-1fc1a7668abe">
 			<property name="Card Category" value="Site" />
 			<property name="Faction" value="Jotune" />
 			<property name="Construction Cost" value="1" />

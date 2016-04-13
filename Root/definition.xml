@@ -9,7 +9,7 @@
 	<proxygen definitionsrc="Proxy\proxies.xml">
 	</proxygen>
 
-	<card front="Sets\Battle_Kit\Cards\8d16f9be-51e3-4fca-8afc-087a655fba4a.png" height="63" width="88" back="Sets\Battle_Kit\Cards\8d16f9be-51e3-4fca-8afc-087a655fba4a.png" backHeight="63" backWidth="88">
+	<card front="Sets\BattleKit\Cards\8d16f9be-51e3-4fca-8afc-087a655fba4a.png" height="63" width="88" back="Sets\BattleKit\Cards\8d16f9be-51e3-4fca-8afc-087a655fba4a.png" backHeight="63" backWidth="88">
 		<property name="Card Category" type="String" />
 		<property name="Faction" type="String" />
 		<property name="Card Type" type="Integer" />

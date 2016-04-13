@@ -1,0 +1,24 @@
+<deck game="2e9baa9c-6ebe-42f3-97c6-121f4dadf302">
+  <section name="PlayDeck">
+    <card qty="3" id="f732117b-8b2c-433e-83fa-6d9d3b269675">Gray Harrier</card>
+    <card qty="4" id="fc175ec9-1264-4676-b512-bf2135be9724">Vassad Saboteur</card>
+    <card qty="4" id="b5618a19-8226-426a-991d-d196ec20e024">Red Condor</card>
+    <card qty="4" id="62538c66-8a61-4f2e-8e0d-0f8cc7788e93">Cloud Falcon</card>
+    <card qty="1" id="5a2f8f1e-3558-4a72-b3a0-01a8d6f9b410">Lord Oathki "The Hawk"</card>
+    <card qty="2" id="edfe8a0f-feb6-4385-affc-2070d49b9982">Sky Hawk</card>
+    <card qty="2" id="6c10e045-7cd8-44ec-8a25-24b342a0e2c0">Lord Fenris "The Wolf"</card>
+    <card qty="1" id="021ebaf0-41ff-42b7-9eae-9ea378608121">Bolthorn Warlord</card>
+    <card qty="4" id="0dd73750-b86c-4d84-b253-f3ad1c39acbe">Spoils of War</card>
+    <card qty="4" id="1ecacdd2-6b98-4e93-8f1d-c3467a006a89">Art of War</card>
+    <card qty="4" id="7ff4ebaf-faf4-4678-9bbc-34cf39f6560d">Strength in Numbers</card>
+    <card qty="4" id="786878a1-0b83-4968-bbfe-3aea1eeb6f68">Fire from the Sky</card>
+    <card qty="3" id="46b316a0-6595-47ad-9641-ee52b1106a4d">Evasion</card>
+    <card qty="4" id="e69be42f-b58b-46e7-8af8-3bea311f395b">Watch Tower</card>
+    <card qty="4" id="066529d5-0b58-455b-bac0-1fc1a7668abe">Shipyard</card>
+    <card qty="4" id="09561a8a-db04-42db-ad5e-4aaa29f2e9d9">Security Post</card>
+    <card qty="4" id="7370617a-7df3-4d4b-a5e6-c54f14cf48f6">Cloud Stronghold</card>
+    <card qty="4" id="277e3643-972c-4914-8c4c-578284c80497">Storm Citadel</card>
+    <card qty="1" id="e0005b74-a68b-4279-acdf-1bbf75d129cf">Catacombs</card>
+    <card qty="1" id="b1814b6a-2bd1-4092-b845-1c31f9c5b489">Cloud Fortress</card>
+  </section>    
+</deck>

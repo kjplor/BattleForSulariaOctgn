@@ -1,0 +1,21 @@
+<deck game="2e9baa9c-6ebe-42f3-97c6-121f4dadf302">
+  <section name="PlayDeck">
+    <card qty="3" id="aafedf62-9b23-4b30-bac6-c48977089650">Sularium Excavator</card>
+    <card qty="4" id="41c91faa-2bb6-4107-931c-8416f0dda12d">Animus Vox</card>
+    <card qty="4" id="c557c0bd-68af-4ee8-9cbc-be545480c940">Hades Sularium Crawler</card>
+    <card qty="4" id="f8f06bb5-280c-47dc-98df-68466bd42aee">Perimeter Alert System</card>
+    <card qty="4" id="842a01a5-cdef-401b-8e89-d1477d8d5d8f">Sularium Mining Station</card>
+    <card qty="4" id="1222d9f8-18d6-4d89-b0da-948225927af8">Prototype Development Base</card>  
+    <card qty="4" id="550c0916-ca51-4d00-94a3-aaee82b9587b">Centropolis</card>
+    <card qty="4" id="625930e9-72a7-4683-a5ed-b86485586af2">Sularium Processing Plant</card>
+    <card qty="1" id="ec9bc4f9-328f-4ec1-8d03-524ad94c7448">Experimental Weapons Base</card>
+    <card qty="1" id="20a7c8e7-cfbe-4fde-b5bf-001a7412ab8f">Satellite Network Facility</card>
+    <card qty="4" id="0618e63d-16f9-4e26-a40e-dee307c79b44">Sularium Tactical Assault Beam</card>
+    <card qty="4" id="7a19fac7-2e1e-4175-a101-046a1f5e7368">Master Mining Program</card>
+    <card qty="4" id="9e635e46-fae1-4385-8ace-d51d1706fd14">Feedback</card>
+    <card qty="4" id="f6132efe-e13f-4a4f-85d7-f2d53ce73e6a">System Scramble</card>
+    <card qty="4" id="c7003377-8d4c-4ace-959c-da909597f2d2">Defense Override</card>
+    <card qty="3" id="1896d638-d33b-4f50-a7af-7fa58ca831d8">Interference</card>
+    <card qty="4" id="22ffc3da-1835-421c-80b8-818868bec6e2">It's a Trap</card>
+  </section>    
+</deck>
